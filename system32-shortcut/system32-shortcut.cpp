@@ -1,5 +1,4 @@
 #include <cstdlib>
-
 /*
 * system32-shortcut 
 * 
