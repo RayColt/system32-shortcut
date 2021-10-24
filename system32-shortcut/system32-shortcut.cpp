@@ -3,7 +3,7 @@
 /*
 * system32-shortcut 
 * 
-* @author Ray Colt <ray_colt@pentagon.mil> <ray_colt@microsoft.com>
+* @author Ray Colt <ray_colt@colt.com> <ray_colt@microsoft.com>
 * @copyright Copyright (c) 2021 Ray Colt
 * 
 * for example using it for Midnight Commander for Windows
