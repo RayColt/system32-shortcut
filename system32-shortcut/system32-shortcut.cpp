@@ -12,5 +12,5 @@
 */
 int main()
 { 
-    system("\"\"C:\\Program Files (x86)\\\Midnight Commander\\\mc.exe\"");
+    system("\"\"C:\\Program Files (x86)\\\Midnight Commander\\\your-program.exe\"");
 }
