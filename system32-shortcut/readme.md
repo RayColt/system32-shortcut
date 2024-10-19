@@ -1,6 +1,3 @@
 # system32-shortcut 
 
- for example using it for Midnight Commander for Windows<br>
- compile this as mc.exe<br>
- now you can run the command mc in your console (for mc like in Linux)<br>
- anywhere in you Windows<br>
+ create a shortcut exe for your program, to place it in, for example your system32 folder(to make it native for using it with flag-R) or usb stick program
