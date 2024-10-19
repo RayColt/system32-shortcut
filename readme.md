@@ -1,3 +1,3 @@
 # system32-shortcut 
 
-creat a shortcut exe to your program which you can place into you sytem32 folder to acces your software native
+create a shortcut exe for your program, to place it in, for example your system32 folder(to make it native for using it with flag-R) or usb stick program
