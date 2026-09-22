@@ -9,8 +9,8 @@
 int main()
 { 
     system("\"\"C:\\Program Files (x86)\\\your-program\\\your-program.exe\"");
-    //example:
-    //system("\"\"C:\\Windows\\\System32\\\wsl.exe\"");
+    // example:
+    // system("\"\"C:\\Windows\\\System32\\\wsl.exe\"");
     // compile as deb.exe and place in system32
     // Windows key + R deb
 }
