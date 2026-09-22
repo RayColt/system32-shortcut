@@ -9,7 +9,7 @@
 int main()
 { 
     system("\"\"C:\\Program Files (x86)\\\your-program\\\your-program.exe\"");
-    // example for opening wsl debian:
+    // example for opening C:\Windows\System32\wsl.exe debian:
     // system("\"\"C:\\Windows\\\System32\\\wsl.exe\"");
     // compile as deb.exe and place in system32
     // Windows key + R deb
